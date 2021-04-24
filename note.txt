@@ -3,4 +3,11 @@ local git repo to remote
 github.com repository.
 Few things happened:
 1) New remote repo was created
-2) A link was made between local and remote repo 
+2) A link was made between local and remote repo
+
+Now our work will continue locally.
+1. Add a new file called note.txt
+2. Committed the change to local repo
+3. We want this change to be reflected on remote repository
+4. We push local commit to remote repo using push origin button
+5. Observe it has been added in your repository under github.com
