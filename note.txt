@@ -1,0 +1,6 @@
+We just published our 
+local git repo to remote
+github.com repository.
+Few things happened:
+1) New remote repo was created
+2) A link was made between local and remote repo 
